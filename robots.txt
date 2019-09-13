@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reshohnib.jake-peacock.com/sitemap.xml
